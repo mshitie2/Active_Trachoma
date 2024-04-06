@@ -4,7 +4,7 @@
 
 **Instructions to run the code**
 1. Download the repository and install the required packages: `pip3 install -r requirements.txt`
-2. The main file is sufficient to run the code. This is a Google Colab Jupyter notebook.
+2. All files are a Google Colab Jupyter notebook.
 
 **Abstract:** Trachoma is a neglected tropical eye disease caused by ocular strains of 
 Chlamydia trachomatis, which affects millions of people worldwide. 
