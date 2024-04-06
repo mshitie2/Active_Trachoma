@@ -28,13 +28,9 @@ If you find our proposed methodology useful, please consider citing it
 ```
 @article{KNOSYS_111764,
   title={Adaptive Feature Selection for Active Trachoma Image Classification},
-  
   author={Mulugeta Shitie Zewudie, Shengwu Xiong, Xiaohan Yu, Xiaoyu Wu and Moges Ahmed Mehameda},
-  
   journal={Knowledge-Based Systems},
-  
   year={2024},
-  
   publisher={Elsevier}
 }
 ```
