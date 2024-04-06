@@ -1,5 +1,5 @@
 # Adaptive Feature Selection for Active Trachoma Image Classification
-<img src=" https://github.com/mshitie2/main/FS_model3.png" width="1000" height="600">
+<img src="https://github.com/mshitie2/main/blob/main/FS_model3.png" width="1000" height="600">
 
 [[Paper]](https://authors.elsevier.com/sd/article/S0950-7051(24)00399-X)
 
