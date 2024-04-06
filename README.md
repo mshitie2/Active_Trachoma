@@ -35,8 +35,8 @@ If you find our proposed methodology useful, please consider citing it
 }
 ```
 ## Installation
-1. Make sure you have python3 setup on your system
-2. Clone the repo
+1. Download the repository and install the required packages: pip3 install -r requirements.txt
+2. Clone the repo, all files are a google colab Jupyter notebook
 ```
 git clone https://github.com/subhankar01/covidfs-aihc
 ```
