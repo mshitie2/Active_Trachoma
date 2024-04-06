@@ -1,12 +1,10 @@
-<center><b> Adaptive Feature Selection for Active Trachoma Image Classification </b></center>
+# Adaptive Feature Selection for Active Trachoma Image Classification
+<img src="https://github.com/subhankar01/covidfs-aihc/blob/main/images/block_diagram.png" width="1000" height="600">
 
-![image](https://github.com/mshitie2/main/assets/166085515/2a4b011a-f689-4be6-b5c2-e4b1857a91fa)
+[[Paper]](https://authors.elsevier.com/sd/article/S0950-7051(24)00399-X)
 
-**Instructions to run the code**
-1. Download the repository and install the required packages: `pip3 install -r requirements.txt`
-2. All files are a Google Colab Jupyter notebook.
-
-**Abstract:** Trachoma is a neglected tropical eye disease caused by ocular strains of 
+## Abstract
+Trachoma is a neglected tropical eye disease caused by ocular strains of 
 Chlamydia trachomatis, which affects millions of people worldwide. 
 To examine the eye for signs of active trachoma, healthcare providers typically 
 look for clusters of five or more follicles on the conjunctiva of the upper eyelid 
@@ -24,10 +22,10 @@ We evaluated the proposed approach on active trachoma inverted eyelid images and
 the selected features, surpassing many of the algorithms used for comparison. Our proposed method has demonstrated excellent 
 performance compared to recent works utilizing the same datasets.
 
-**Journal Paper:**
 
-If you find our proposed methodology useful, please consider citing it:
-
+## Journal Paper
+If you find our proposed methodology useful, please consider citing it
+```
 @article{KNOSYS_111764,
   title={Adaptive Feature Selection for Active Trachoma Image Classification},
   
@@ -39,5 +37,19 @@ If you find our proposed methodology useful, please consider citing it:
   
   publisher={Elsevier}
 }
+```
+## Installation
+1. Make sure you have python3 setup on your system
+2. Clone the repo
+```
+git clone https://github.com/subhankar01/covidfs-aihc
+```
+3. Install requirements
+```
+pip install -r requirements.txt
+```
+## Contact
+In case of doubt or further collaboration, feel free to email us ! 😊
+- [Xiaohan Yu (xiaohan.yu@griffith.edu.au) ](mailto:xiaohan.yu@griffith.edu.au)
+- [Mulugeta Shitie Zewudie (mshitie@whut.edu.cn)](mailto:mshitie@whut.edu.cn)
 
- 
